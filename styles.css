@@ -1,0 +1,12 @@
+
+    
+.div-wrapper{
+    display: flex;
+    gap: 100px;
+}
+.first{
+    background-color: blueviolet;
+}
+.second{
+    background-color: aqua;
+}
